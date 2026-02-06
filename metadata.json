@@ -1,0 +1,5 @@
+{
+  "name": "CodeMaster",
+  "description": "简洁高效的随机刷题系统，支持防秒选提示、AI解析及CSV成绩导出。",
+  "requestFramePermissions": []
+}
